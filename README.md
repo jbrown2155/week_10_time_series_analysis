@@ -36,13 +36,21 @@ Following steps outlined in the time-series starter notebook I completed the fol
 
 1. Decomposition using a Hodrick-Prescott Filter (Decompose the Settle price into trend and noise).
 ![Hodrick-Prescott Filter](Resources/HP1.png)
+
 ![Hodrick-Prescott Filter](Resources/HP2.png)
+
 2. Forecasting Returns using an ARMA Model.
+
 ![ARMA Model](Resources/ARMA.png)
+
 3. Forecasting the Settle Price using an ARIMA Model.
+
 ![ARIMA Model](Resources/ARMIA.png)
+
 4. Forecasting Volatility with GARCH.
+
 ![GARCH](Resources/GARCH1.png)
+
 ![GARCH](Resources/GARCH2.png)
 
 I answered the following using the results of the time series analysis and modeling:
@@ -71,5 +79,7 @@ I answered the following using the results of the linear regression analysis and
 
 1. Does this model perform better or worse on out-of-sample data compared to in-sample data?
     While the two predictions are mathmatically similar to each other, the model performs better on In-Sample Data. 
+
 ![Model Performance](Resources/model_performance.png)
+
 - - -
