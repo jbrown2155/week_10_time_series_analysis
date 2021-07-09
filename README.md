@@ -45,7 +45,7 @@ Following steps outlined in the time-series starter notebook I completed the fol
 
 3. Forecasting the Settle Price using an ARIMA Model.
 
-![ARIMA Model](Resources/ARMIA.png)
+![ARIMA Model](Resources/ARIMA.png)
 
 4. Forecasting Volatility with GARCH.
 
